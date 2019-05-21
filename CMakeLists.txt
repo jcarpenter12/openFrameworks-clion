@@ -3,7 +3,7 @@ project(openFrameworks-clion)
 set(APP_NAME openFrameworks-clion)
 
 # ===================== oF Directory =====================
-set(OF_DIRECTORY ~/of)
+set(OF_DIRECTORY ~/openFrameworks)
 
 
 # ===================== Compiler Flags =====================
